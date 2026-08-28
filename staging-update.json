@@ -1,33 +1,33 @@
 {
-  "version": "3.0.6-staging2",
+  "version": "3.0.6-staging3",
   "notes": "No Moxby Bridge staging release has been promoted yet.",
-  "pub_date": "2026-08-28T09:12:01.201Z",
+  "pub_date": "2026-08-28T14:07:46.322Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WStucnlaa1VxVTJ3enlOUS9Vd2JnWktlY0U4NTEzOFNSVHR3Vkp3SkpqRStiS2xGVmRvaDRkTUZ4OCs4QU5mR2k3ODUrKzZQT2dzTE5UamRXdGlxQ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODc5MDU3CWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6ClUzckxwZXhTSE4vaUJVMkRCSHpXelA0T2Yxa0F5REJLeFpVS3ZzY01LR3NxWmkrb09GZmo3eGMxMGVacDBUOTlRakwvZGcxblhaOUUvNlVqWk1Sb0NnPT0K",
-      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_macos_arm64.app.tar.gz",
-      "version": "3.0.6-staging2"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WTROaVcwWkc4UXlDeGhnZW5kR2hBNmc3cHZzbEZ6aFdmTmd0VlZsTXU3Qjd5RlcrN2dONm9TNyt2dDhIay9GQys4ang0RHAvL2RFMEFJbzhzbFBGdXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTIyOTkwCWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6Ckw2Q3VtQUovaFpnSWpMdzFEMVZhamZqbVJDcXJyYllvdnVOcHRGTDFSczNkMFlsVm5CVGNLbjdBNnBKbUowMzNVTGtaYVpxWUk2YmlqT2FITnlBa0F3PT0K",
+      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_macos_arm64.app.tar.gz",
+      "version": "3.0.6-staging3"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WTFzZnAzWkord3ZIOWh0YXNxemk0T2pGeEQrYmtDb1RveEhOYXdQNkt3OEdrcFNqWkFkOVE4MUczOFJkMWZleE0vN0lZYWpRQm1CV0MyZ01oa2plWGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODc4MzM2CWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6CnY0cUhHTmtxTnV6VG13cU02bmRDdnlMeDV5ekp3UTFSTDJJb2ZPTWRtK29xWDVzbXdBTEJpdjhVQ0U2OWlGY0RjRENQb21McVpnaitRTVJCcmQ1N0JnPT0K",
-      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_macos_x64.app.tar.gz",
-      "version": "3.0.6-staging2"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WTNhYXZTNUVEVGI0RXZNd3ZFVGQyMFNQbU5rcEdlQ05Ba2huaUtxSjBKWXA0Q3lEWDhyazRJZDZ5WTBBcGd1MkRibTNvVkpYZy80NUpXTjJpaHpNdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTIzMTcwCWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6ClRHS3VJUFkrWWxzMXBpUnRmem85Y0k1c1AySFNjcE1RTDJYZktxQU1jaGRVdnZFdTBMUkR3Yk9NS3dZeDA3VW1seXR0ZTNSRzYvbEwyUU11ZFU1QUR3PT0K",
+      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_macos_x64.app.tar.gz",
+      "version": "3.0.6-staging3"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WTVlY2tkMGd0aE5ZTXlUTHBKNW1qa2NhcTdpSXVNRGtYUGFSQVRGZUZlOTdoN1ZZQm1Tc29sNG0rV0RDS1czNzhrSm5LSzA1ejIxUDVYZi9DcFVUakFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODgwOTc0CWZpbGU6TW94YnkgU3RhZ2luZ18zLjAuNi1zdGFnaW5nMl9hcm02NC1zZXR1cC5leGUKYVVLSGJ5ZDRPR3BMdkRHMjVOaVdPQ1FDTDlUeHI5VzFXcCtpWW9wazkrKy9QTEg1YjVJV2tRMk1mRVdrbUZ1QlFqR3FZYyttNjJhRGtTbTZIWlpJQWc9PQo=",
-      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_windows_arm64-setup.exe",
-      "version": "3.0.6-staging2"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WTIwQjBHUm5tbXcrb3k3NndiZm96ODJ2M0t6bzNDdVN4bC8zdWxnNDhrK3BwRUdISzhCM2tMTG1raS80WjI5RXRzUStMdXplRlZJTUk2UGk2Wms0c0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTI1ODgwCWZpbGU6TW94YnkgU3RhZ2luZ18zLjAuNi1zdGFnaW5nM19hcm02NC1zZXR1cC5leGUKeVJISlVlZ3c2M1A4YjRGNzhDd0gxOVJrTGZCeVQxVE5qd0NKSDZPSER1Uzhsa3RreFc0L3BWZGg2d1BqWFNrd0xoNGVJQnE4S3lvVGJlMGpLbXBZRFE9PQo=",
+      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_windows_arm64-setup.exe",
+      "version": "3.0.6-staging3"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WTlzWGFDdnpjcjVZWk83MEcyRnpjYm5qV2VVaDNhdC9UM0xMbVpGSmZObThUY1JhUXlQSXlSZ3V2b21xdkkyMWs2YkJoUS90b0RnY0lSQ1h3bVRDYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODgwNDEyCWZpbGU6TW94YnkgU3RhZ2luZ18zLjAuNi1zdGFnaW5nMl94NjQtc2V0dXAuZXhlCjJMVnorUWUxalgxSGZWSDhPdDJXZWd0VWlLVFJGRVF6Qk5TQ1pDWlkxYWxCRXQ4RE5WbThkNmJaSm90QnQ0VXZoS3p5U1hCNGxkZjZaVkJobTdCOENBPT0K",
-      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_windows_x64-setup.exe",
-      "version": "3.0.6-staging2"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHBWQkFMTFQ3WTFLQWExWmdKbFNrU3EvZmFxTGZSS3U3SWdVV0xkL3FHNnJlelRwR21WZ3lyR1dOTTZiTTM0WGVBdEZJNmwwTVIyRGYvcGR1NUdNcUV3VUpXeTQ4RVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTI1MzE1CWZpbGU6TW94YnkgU3RhZ2luZ18zLjAuNi1zdGFnaW5nM194NjQtc2V0dXAuZXhlCk5kTjhrN21TREZ0OThnYmRoTmlzUDc0RHY4ZUxxU2ExZ2NZMDRmbUt5K1YzSCtBSlQrSE4rbGlvbytGaXpoRTMrTUN4ejAwQ0k2RFBUOXRZRm9KU0RnPT0K",
+      "url": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_windows_x64-setup.exe",
+      "version": "3.0.6-staging3"
     }
   },
   "downloads": {
-    "macos-arm64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_macos_arm64.dmg",
-    "macos-x64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_macos_x64.dmg",
-    "windows-arm64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_windows_arm64-setup.exe",
-    "windows-x64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging2/Moxby-Bridge-Staging_3.0.6-staging2_windows_x64-setup.exe"
+    "macos-arm64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_macos_arm64.dmg",
+    "macos-x64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_macos_x64.dmg",
+    "windows-arm64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_windows_arm64-setup.exe",
+    "windows-x64": "https://github.com/ChainAI-Org/moxby-bridge-releases/releases/download/v3.0.6-staging3/Moxby-Bridge-Staging_3.0.6-staging3_windows_x64-setup.exe"
   }
 }
